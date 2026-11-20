@@ -1,0 +1,23 @@
+{
+  "name": "HP Feature Tour \u00b7 Pop",
+  "short_name": "Tour Pop",
+  "start_url": "./?v=pop",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e0e1ee",
+  "theme_color": "#e0e1ee",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
